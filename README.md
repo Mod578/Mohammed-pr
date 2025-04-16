@@ -1,5 +1,3 @@
-Here’s the refined and concise version of your `README.md` file with corrections, improved clarity, and unnecessary details removed:
-
 ---
 
 # **Scalable Data Science with Python: Black Friday Sales Analysis**
